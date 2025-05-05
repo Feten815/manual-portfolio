@@ -3,19 +3,14 @@
 Welcome to my manual QA testing portfolio!  
 I'm an ISTQB-certified junior QA tester working to improve my skills by testing real websites and documenting my work.
 
-## 🔍 Projects
+## 🛍️ Project: Mytek.tn (Tunisian E-commerce Website)
 
-### 1. Mytek.tn (E-commerce Site)
-- ✅ 6 test cases for search, cart, and checkout features
-- 🐞 1 bug report: Case sensitivity in search
-- 🧪 Status: In progress
+### ✅ Test Cases:
+- `Mytek_Search_TestCases.docx` – 6 test cases for search, cart, and checkout
 
-## 📁 Files
+### 🐞 Bug Reports:
+- `BUG-001_Mytek_Search_CaseSensitivity.docx` – Search does not work with lowercase letters
 
-- `Mytek_Search_TestCases.docx` – Functional test cases
-- `BUG-001_Mytek_Search_CaseSensitivity.docx` – Bug report 
+💼 Goal: Learn by doing and become job-ready as a QA Tester.
 
----
-
-📌 More coming soon: bug reports, test plans, and test cases on other websites like Electro.tn, TechnoPro, Amazon...
 
